@@ -1,6 +1,9 @@
 # kali_repo
 Fix kali Reop not work in iran | youtube 
-
+```
+cd /etc/apt
+sudo nano sources.list
+```
 ## replace this code with /etc/apt/sources.list all line code delete and paste this code :
 
 ```
